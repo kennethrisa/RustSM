@@ -35,7 +35,7 @@ exports.RconApp = function(){
 				ws.close(1000);
 				setTimeout(function()
 				{
-					console.log("RconApp Command relayed" + argumentString);
+					console.log("RconApp Command relayed " + argumentString);
 					return;
 				});
 			}, 1000);
