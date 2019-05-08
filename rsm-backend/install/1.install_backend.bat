@@ -1,0 +1,1 @@
+Powershell.exe -noexit -executionpolicy remotesigned -File install_be.ps1

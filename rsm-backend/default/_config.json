@@ -1,0 +1,8 @@
+{
+    "id": "1",
+    "startbot": "1",
+    "token": "",
+    "prefix": "!",
+    "roles": "Owner",
+    "apiUrl": "http://localhost:4500/api/server/"
+}

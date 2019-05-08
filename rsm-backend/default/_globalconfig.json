@@ -1,0 +1,6 @@
+{
+    "servers": "1",
+    "apiPort": "4500",
+    "apikey": "",
+    "debug": false
+}

@@ -1,0 +1,8 @@
+help
+rcon
+set
+get
+wipe
+say
+restart
+abortrestart

@@ -1,0 +1,31 @@
+```
+Help commands: Usage:!say <something> - example: !say hello chat (console server)
+!rcon command
+
+### Restart ###
+!restart <time> example: ! restart 60 (min is 10)
+!abortrestart
+
+You can also see more info if you type ! set <name> without the last parameters
+### Set Serverinfo: ###
+
+!set hostname <hostname>
+!set seed <seed
+!set update 1/0 (1 = Update on start, 0 = skip update on start)
+!set forceupdate 1/0 (1 = force validate on start, set update need to be 1 also)
+!set oxide 1/0 (1 = Update oxide on start, 0 = skip oxide on start)
+!set wipe (2/1/0) (based on your sets)
+!set uselevelurl 1/0 (1 = on, 0 = off)
+!set levelurl http://
+
+### Get Serverinfo: ###
+
+!get hostname
+!get seed
+!get update
+!get oxide
+!get wipe
+!get uselevelurl
+!get levelurl
+
+```

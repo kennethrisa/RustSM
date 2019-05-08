@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File rsm-files/functions/_createserver.ps1
