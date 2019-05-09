@@ -31,14 +31,14 @@ This require that you have setup an discord application, and you will need your 
 
 - Api url for server: Press enter for default
 ```
-
+![install](https://i.altirust.no/s/SvAuQtZ4palM4qd.gif "install")
 
 ### Next up is setup for the rust server. 
 
 Please be aware of the ID, if you want to setup multiple servers.
 
 Follow the prompt for parameters to the rust server, if you have choosed more than 1 rust server, it will loop through all.
-
+![install](https://i.altirust.no/s/cTWiBkZltJWDUUf.gif "install")
 ```
 When install is complete, go back one folder to \rsm-backend.
 Dobbel click on start_backend.bat to start the backend
@@ -49,7 +49,7 @@ How to create rust server:
 Go back to RustSM folder and dobbel click on: create_servers.bat
 This will auto create server folders for you, default: rsm-server1
 ```
-
+![install](https://i.altirust.no/s/1doJQglyYQRiqTL.gif "install")
 ```
 How to start the server:
 Go into folder: rsm-server1, and dobbel click on startserver.bat
@@ -58,3 +58,4 @@ It will auto install steamcmd, install rust and oxide if that has been set in co
 
 To make it not update on every restart !set update 0
 ```
+![install](https://i.altirust.no/s/eV27SEyFVxv5iG2.gif "install")

@@ -47,6 +47,7 @@ Update hostname:
 Put request (/api/server/:id/:name)
 Content-Type: application/x-www-form-urlencoded
 headers: apikey key
+Body: value: MyNewHostname
 url: http://localhost:4500/api/server/1/hostname
 ```
 

@@ -24,16 +24,16 @@ Commands for discord bot with default prefix:
 
 Set a new hostname:
 
-!set hostname My Main Server
+```!set hostname My Main Server```
 
 Get a parameter:
 
-!get hostname
+```!get hostname```
 
 Restart server:
 
-!restart 300
+```!restart 300```
 
 Abort server restart
 
-!abortrestart
+```!abortrestart```
