@@ -3,7 +3,6 @@ How to wipe server in discord
 
 !set seed <seednr>
 !set update 1 (if you need to update the server)
-!set lastwipe <todays date> (example: 03.01)
 !set wipe 1 (based on your sets)
 !say Server will wipe in 10 min!
 !restart (will restart based on whats in restart.txt, default 600)
