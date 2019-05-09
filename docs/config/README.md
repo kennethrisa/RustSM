@@ -13,4 +13,4 @@ config(x).json = Contains Id, discord info and api url for that server.
 
 globalconfig.json = Contains all info to the API, like apikey, how many servers and port.
 
-server(x).jons = Contains all the rust server parameters
+server(x).json = Contains all the rust server parameters

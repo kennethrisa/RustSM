@@ -1,7 +1,7 @@
 # This is an example only, do not customize this one, create a new one that is called wip2.ps1
 # and then set wipe to 2, it will then run at startup.
 # For an montly wipe example:
-. .\rsm\config\parameters.ps1
+. .\rsm\config\_parameters.ps1
 
 $rustserverdir = "$serverdir\server\$identity"
 Write-Host "Starting wipe $wipe"

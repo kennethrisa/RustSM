@@ -53,4 +53,8 @@ This will auto create server folders for you, default: rsm-server1
 ```
 How to start the server:
 Go into folder: rsm-server1, and dobbel click on startserver.bat
+
+It will auto install steamcmd, install rust and oxide if that has been set in config.
+
+To make it not update on every restart !set oxide 0
 ```
