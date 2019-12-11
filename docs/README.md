@@ -7,3 +7,4 @@
 * [api](/docs/api)
 * [discord](/docs/discord)
 * [rsm-server](/docs/rsm-server)
+* [automate](/docs/automate)
