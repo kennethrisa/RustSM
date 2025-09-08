@@ -1,3 +1,7 @@
+## 📦 Repository Archived
+
+This repository has been archived and is no longer maintained.
+
 # RustSM - Rust Server Manager
 
 WIP
